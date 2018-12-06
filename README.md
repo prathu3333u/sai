@@ -1,2 +1,2 @@
 # sai
-it is for practice  pupose
+it is for practice  prpose
